@@ -26,6 +26,10 @@ Market conditions miner allows:
 <br/>
 [+] Elbow method: Calculates the inertia of the K-Means to show the K-optimal parameter to select(if desired).
 
-# Demo
+# Real time demo on my YT channel
 
 https://youtu.be/FmJYnlSURn4
+
+# Presentation
+
+![demo](demo.png)
